@@ -11,4 +11,4 @@ Sunt studentă la Facultatea de Inginerie Lucian Blaga din Sibiu, pe profilul In
 ## Hobby-uri
 - Gaming
 - Muzică
-- Artă
+- Artă digitala
